@@ -1,5 +1,5 @@
 {
-    "name": "presta/sonata-gedmo-doctrine-extensions-bundle",
+    "name": "golgo1313/sonata-gedmo-doctrine-extensions-bundle",
     "type": "symfony-bundle",
     "description": "PrestaSonataGedmoDoctrineExtensions : integrates gedmo doctrine extenions in Sonata Admin",
     "keywords": ["symfony2", "bundle", "sonata-admin", "prestaconcept", "gedmo"],
